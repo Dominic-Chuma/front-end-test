@@ -33,4 +33,4 @@ Remember to show success/error message on form submit.
 
 ---
 
-After finishing all tasks, send us your CV and link to the repository at hello@naitrons.com, then wait for an answer. Bye!
+After finishing all tasks, send us your CV and link to the repository at challenge@naitrons.com, then wait for an answer. Bye!
