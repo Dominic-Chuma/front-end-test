@@ -10,7 +10,7 @@ Fork this repository, it needs to stay on Github, available for everyone.
 
 The test is based on [Google Web Starter Kit](https://github.com/google/web-starter-kit) v0.6.5
 
-Follow [installation instructions](https://github.com/google/web-starter-kit/blob/v0.6.5/docs/install.md) and read [commands](https://github.com/google/web-starter-kit/blob/v0.6.5/docs/commands.md) documentation to set up developer tools. You should end with a working test page on http://localhost:3000/.
+Follow [installation instructions](https://github.com/google/web-starter-kit/blob/v0.6.5/docs/install.md) and read [commands](https://github.com/google/web-starter-kit/blob/v0.6.5/docs/commands.md) documentation to set up developer tools. You should end with a working test page on http://localhost:3000/. Make sure you commit your work at every stage. also try to divide task into micro tasks.
 
 ---
 
